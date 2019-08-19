@@ -1,5 +1,5 @@
 # instagram 📷
-Clone feed instagram em React-native.
+Clone feed instagram em React Native.
 
 Iniciar o server:
 
